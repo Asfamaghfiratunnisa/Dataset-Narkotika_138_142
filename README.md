@@ -1,5 +1,5 @@
-# Dataset Narkotika PN Batulicin - Kalimantan Selatam
-## _Tugas kelompok oleh Asfa Maghfiratunnisa_2020138 dan Anisa Kusumawati_2020142
+# Dataset Narkotika PN Batulicin - Kalimantan Selatan
+## Tugas kelompok oleh Asfa Maghfiratunnisa_2020138 dan Anisa Kusumawati_2020142
 _Mata kuliah Temu Kembali Informasi_
 _Dosen Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS._
 
@@ -11,7 +11,15 @@ _Dosen Pengampu IR. GALIH WASIS WICAKSONO, S.KOM, M.CS._
 Python adalah bahasa pemrograman yang penerapannya tidak hanya pada dunia website saja, akan tetapi pada bidang-bidang lainnya, seperti proses system scripting, data science hingga pembuatan game.Python sangat kuat dalam hal statistik dan sering digunakan untuk bekerja menggunakan data berukuran besar. Package statistics pada python memiliki berbagai fungsi yang bisa digunakan untuk mengolah kumpulan data yang sangat besar. Fungsi mode() adalah salah satu fungsi yang ada di package tersebut. Mode() pada python bisa digunakan untuk berbagai jenis dataset.
 ## Features
 
-- Dataset yang berisi data narkotika keputusan pengadilan negri 
+Dataset berisi keputusan Pengadilan Negri Batulicin terkait kasus Narkotika yang ada pada tahun 2022-2023
+Dataset narkotika di Pengadilan Negeri Batulicin mencakup berbagai informasi terkait kasus-kasus hukum yang melibatkan narkotika di wilayah tersebut. Beberapa elemen yang mungkin terdapat dalam dataset tersebut meliputi:
+- Kronologi Kasus: Penjelasan tentang perkembangan kasus dari awal hingga akhir, termasuk bagaimana penangkapan dilakukan, proses penyelidikan, dan tahap-tahap pengadilan.
+
+- Bukti-Bukti: Informasi mengenai bukti-bukti yang diajukan selama persidangan, seperti barang bukti, keterangan saksi, atau hasil pemeriksaan forensik.
+
+- Putusan Pengadilan: Hasil akhir dari setiap kasus, termasuk apakah terdakwa dinyatakan bersalah atau tidak bersalah, serta hukuman yang diberikan jika ada.
+
+Dataset ini dapat digunakan untuk analisis hukum, pemantauan tren dalam kasus narkotika, atau evaluasi keefektifan sistem hukum dalam menangani kasus-kasus semacam itu di Pengadilan Negeri Batulicin. Selain itu, dapat memberikan wawasan tentang tingkat keparahan dan prevalensi penyalahgunaan narkotika di wilayah tersebut.
 
 ## Tech
 
@@ -40,6 +48,4 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 | Plugin | README |
 | ------ | ------ |
 | GitHub | [https://github.com/Asfamaghfiratunnisa/Dataset-Narkotika_132_142] |
-| Google Drive | [https://github.com/Asfamaghfiratunnisa/Dataset-Daun-Jambu-Biji-dan-Daun-Belimbing-Wuluh_126-138/blob/main/README.md] |
-
  
